@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["ColorOpt"],"fn":["handle_module","run"],"macro":["vcprint","vcprintln","vprintln"],"struct":["Options"]};

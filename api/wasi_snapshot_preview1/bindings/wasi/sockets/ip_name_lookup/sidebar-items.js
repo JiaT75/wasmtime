@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["drop_resolve_address_stream","resolve_addresses","resolve_next_address","subscribe"],"type":["ErrorCode","IpAddress","IpAddressFamily","Network","Pollable","ResolveAddressStream"]};

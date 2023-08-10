@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["TrampolineKind"],"mod":["isa"],"struct":["FuncEnv"]};

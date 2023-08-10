@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["STDERR_FD","STDIN_FD","STDOUT_FD"],"fn":["create_file","open_scratch_directory"],"macro":["assert_errno"],"mod":["config"],"static":["TESTCONFIG"]};

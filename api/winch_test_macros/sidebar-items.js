@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"attr":["generate_file_tests"]};

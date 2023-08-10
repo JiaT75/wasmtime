@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["main","test_path_open_read_write"]};

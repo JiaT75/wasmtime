@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["pipe"],"struct":["AsyncReadStream","AsyncWriteStream","ClosedInputStream","ClosedOutputStream","MemoryInputPipe","MemoryOutputPipe","SinkOutputStream"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["check_rights","create_or_open","fdstats_assert_eq","filestats_assert_eq","main","open_link","test_path_link"]};

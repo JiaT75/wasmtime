@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["FIRST_PREOPEN"],"fn":["directory_base_rights","directory_inheriting_rights","main","path_open_preopen"]};

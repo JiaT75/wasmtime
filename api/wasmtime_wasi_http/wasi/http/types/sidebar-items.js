@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["Error","Method","Scheme"],"fn":["add_to_linker"],"struct":["RequestOptions"],"trait":["Host"],"type":["Fields","FutureIncomingResponse","Headers","IncomingRequest","IncomingResponse","IncomingStream","InputStream","OutgoingRequest","OutgoingResponse","OutgoingStream","OutputStream","Pollable","ResponseOutparam","StatusCode","Trailers"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["AccessType","Advice","DescriptorType","ErrorCode","NewTimestamp"],"fn":["add_to_linker"],"struct":["DescriptorFlags","DescriptorStat","DirectoryEntry","Error","MetadataHashValue","Modes","OpenFlags","PathFlags"],"trait":["Host"],"type":["Datetime","Descriptor","DirectoryEntryStream","Filesize","InputStream","LinkCount","OutputStream"]};

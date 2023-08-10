@@ -1,0 +1,3 @@
+(function() {var implementors = {
+"wasi_cap_std_sync":[["impl <a class=\"trait\" href=\"wasi_common/sched/trait.WasiSched.html\" title=\"trait wasi_common::sched::WasiSched\">WasiSched</a> for <a class=\"struct\" href=\"wasi_cap_std_sync/sched/struct.SyncSched.html\" title=\"struct wasi_cap_std_sync::sched::SyncSched\">SyncSched</a>"]]
+};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["create_symlink_to_directory","create_symlink_to_file","create_symlink_to_root","main"]};
